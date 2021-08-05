@@ -4,5 +4,5 @@
 * Another company uses a combination of Chef and Azure CLI to provision resources
 * Hardest part of Infrastructure as Code is training users outside of the immediate DevOps/Platform team
 * Good use cases of IaC
- * Ransomware example
- * A/B Testing with AKS and Traffic Manager
+    * Ransomware example
+    * A/B Testing with AKS and Traffic Manager
